@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import time
 
-options = 
+options = {
     'proxy': {
         'http': 'http://d0a72fc00e1905cbdbf4__cr.ar:16a271cc21b51cef@gw.dataimpulse.com:10204',
         'https': 'https://d0a72fc00e1905cbdbf4__cr.ar:16a271cc21b51cef@gw.dataimpulse.com:10204',
